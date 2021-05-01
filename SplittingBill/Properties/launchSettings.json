@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SplittingBill": {
+      "commandName": "Project",
+      "commandLineArgs": "inputFile1.txt"
+    }
+  }
+}
